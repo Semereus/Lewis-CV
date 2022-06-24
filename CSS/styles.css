@@ -1,0 +1,105 @@
+/**************TAG SELECTOR**********************/
+body {
+  background-color: #7858A6
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted white;
+  width: 10%;
+}
+
+img {
+  height: 200px;
+}
+
+h3 {
+  color: white;
+  font-family: sans-serif;
+  arial:
+    text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: sans-serif;
+  arial:
+    text-align: center;
+    font-size: 80px;
+}
+
+p {
+  color: white;
+  font-family: sans-serif;
+  arial:
+    text-align: center;
+    font-size: 25px;
+}
+
+ul {
+  color: white;
+  font-family: sans-serif;
+'arial'
+  text-align: center:
+
+}
+
+ol {
+  color: white;
+  font-family: sans-serif;
+  'arial'
+  text-align: center;
+  list-style-position: inside;
+}
+
+table {
+  color: white;
+  font-family: sans-serif;
+  'arial'
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  margin: auto;
+  text-align: center;
+  display: block;
+  color: gold;
+}
+
+form {
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+}
+
+/**************CLASS SELECTOR**********************/
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  'arial'
+}
+
+.lewiss {
+  color: gold;
+  font-family: sans-serif;
+  'arial'
+
+}
+
+.current {
+  list-style: none;
+}
+
+
+
+/**************ID SELECTOR**********************/
+#intro {
+  font-size: 20px;
+}
